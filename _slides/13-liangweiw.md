@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Happy New Year 🐎
 
-![Mardigrastocat](https://octodex.github.com/images/Mardigrastocat.png)
+![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}
