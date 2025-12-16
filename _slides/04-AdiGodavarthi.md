@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Here is the update from Adi. 
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
